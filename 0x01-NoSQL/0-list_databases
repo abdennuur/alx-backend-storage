@@ -1,2 +1,2 @@
-// Uses or create MongoDB database.
-show my_db
+// Use or create MongoDB database.
+show dbs
