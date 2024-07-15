@@ -1,0 +1,2 @@
+// To list all docs in the school collection.
+db.school.find().forEach(printjson);
