@@ -1,0 +1,2 @@
+// Uses or create MongoDB database.
+use m_db;
